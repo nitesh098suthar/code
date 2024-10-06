@@ -1,0 +1,1 @@
+eleteByPos(head, 2);

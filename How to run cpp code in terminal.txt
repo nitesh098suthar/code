@@ -1,0 +1,6 @@
+How to run cpp code in terminal
+
+
+g++ filename.cpp
+
+./a
